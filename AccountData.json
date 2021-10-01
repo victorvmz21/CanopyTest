@@ -1,0 +1,26 @@
+{
+	"user": {
+		"name": "Johnny Appleseed",
+		"account_created": "2020-05-21"
+	},
+	"accounts": [
+		{
+			"name": "Wells Fargo",
+			"account_last_four": "4231",
+			"date_added": "2020-06-02",
+			"type": "checking"
+		},
+		{
+			"name": "Capital One",
+			"account_last_four": "5488",
+			"date_added": "2020-06-02",
+			"type": "savings"
+		},
+		{
+			"name": "Bank of America",
+			"account_last_four": "8428",
+			"date_added": "2020-06-02",
+			"type": "checking"
+		}
+	]
+}
